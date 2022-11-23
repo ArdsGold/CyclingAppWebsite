@@ -1,4 +1,16 @@
-.fcc-btn {
+.button-style {
   background-color: #6200ED;
   color: white;
+  padding: 10px 10px;
+  text-decoration: none;
+}
+
+.body-style {
+  font-family: sans-serif;
+  color: #757575;
+  margin: 0;
+}
+
+.page-header{
+  background: #6200ED;
 }
